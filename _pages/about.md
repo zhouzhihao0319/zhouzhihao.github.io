@@ -11,7 +11,13 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 A data-driven personal website
 ======
-I'm Data Scientist curretly working at DSV air&sea
+I'm a Data Scientist working at [DSV Air&Sea](https://www.dsv.com/en-us/). My work includes setting up matrix, SQL, ab testing
+
+I am very fortunate to be advised by [Prof. Lu Zhang](https://luzhangstat.github.io) of [Division of Biostatistics](https://keck.usc.edu/biostatistics/) from [Keck School of Medicine](https://keck.usc.edu), [University of Southern California(USC)](https://www.usc.edu).
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:zhouzhih@usc.edu) / [Github](https://github.com/zhouzhihao0319) / [Wechat](../images/wechat.jpg)
 
 Getting started
 ======
