@@ -12,7 +12,7 @@ I'm a Data Scientist working at [DSV Air&Sea](https://www.dsv.com/en-us/). My wo
 
 I am very fortunate to be advised by [Prof. Lu Zhang](https://luzhangstat.github.io) of [Division of Biostatistics](https://keck.usc.edu/biostatistics/) from [Keck School of Medicine](https://keck.usc.edu), [University of Southern California(USC)](https://www.usc.edu).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Toby_Zhou_Resume___ENG.pdf).
+You can find my CV here: [Resume](../assets/Toby_Zhou_Resume___ENG.pdf) [简历](../assets/Toby_Zhou_Resume___ENG.pdf)
 
 [Email](mailto:zhouzhih@usc.edu) / [Github](https://github.com/zhouzhihao0319) / [Wechat](../images/wechat.jpg)
 
