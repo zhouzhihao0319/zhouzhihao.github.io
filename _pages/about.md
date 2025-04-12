@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Zhihao Zhou(周致毫), a Data Scientist working at [DSV Air&Sea](https://www.dsv.com/en-us/)(Los Angeles). I Lead logistics analytics for the U.S. Cross‑border Omnichannel semiconductor market, focusing on KPI development, performance monitoring, and strategic insights to enhance operational efficiency. Before that, i obtained my M.S. degree at Department of Biostatistics, University of Southern California, and i received my B.S. degree (Mathematics) from China Agricultural University. 
+My name is Zhihao Zhou(周致毫), a Data Scientist working at [DSV Air&Sea](https://www.dsv.com/en-us/)(Los Angeles). I Lead logistics analytics for the U.S. Cross‑border Omnichannel semiconductor market, focusing on KPI development, performance monitoring, and strategic insights to enhance operational efficiency. Before that, I obtained my M.S. degree at Department of Biostatistics, University of Southern California, and I received my B.S. degree (Mathematics) from China Agricultural University. 
 
 During my time at USC I am very fortunate to be advised by [Prof. Lu Zhang](https://luzhangstat.github.io) of [Division of Biostatistics](https://keck.usc.edu/biostatistics/) from [Keck School of Medicine](https://keck.usc.edu), [University of Southern California(USC)](https://www.usc.edu).
 
