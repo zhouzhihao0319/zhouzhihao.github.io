@@ -21,7 +21,7 @@ techniques for their specific needs.
 '
 date: 2024-05-06
 venue: 'USC Library'
-codeurl: 'https://github.com/zhouzhihao0319/perconcg'
+slidesurl: 'https://github.com/zhouzhihao0319/perconcg'
 paperurl: 'https://digitallibrary.usc.edu/C.aspx?VP3=pdfviewer&rid=2A3BF1MGJ56X0'
 citation: 'Zhou, Zhihao. 2024. Accelerating Posterior Sampling for Scalable Gaussian Process Model: A Comparative Study of Acceleration Techniques for Solving Linear SystemsMaster’s thesis, University of Southern California. Accessed June 7, 2024.'
 ---
