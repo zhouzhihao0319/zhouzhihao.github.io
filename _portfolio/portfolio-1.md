@@ -1,6 +1,6 @@
 ---
 title: "Cargowise one based data input automation tools"
-excerpt: "Cargowise one based data input automation tools <br/><img src='/images/500x300.png'>"
+excerpt: "Cargowise one based data input automation tools <br/><img src='/images/Cargowise one based data input automation tools.gif'>"
 collection: portfolio
 ---
 
