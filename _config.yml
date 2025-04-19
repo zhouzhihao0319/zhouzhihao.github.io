@@ -13,7 +13,7 @@ title                    : "Zhou Zhihao's Pages"
 title_separator          : "-"
 name                     : &name "Zhihao Zhou"
 description              : &description "A data scientist working with DSV Air&Sea"
-url                      : https://zhouzhihao0319.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zhouzhihao0319.github.io/zhouzhihao.github.io# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouzhihao0319/zhouzhihao.github.io"
 
