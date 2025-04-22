@@ -17,6 +17,5 @@ You can find my CV here: [Resume](assets/Toby_Zhou_Resume___ENG.pdf) [简历](as
 Miscellaneous
 ======
 During my time in USC I played for the [USC men's rugby team](https://www.uscrugby.com/). Off the screen, you'll often find me play flag football or rugby with my friends.
-
-
+<br/> <img src="https://raw.githubusercontent.com/zhouzhihao0319/zhouzhihao.github.io/master/images/usc_mens_rugby_team.jfif">
 
