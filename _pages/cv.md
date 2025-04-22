@@ -20,10 +20,10 @@ Work experience
   * DSV Air&Sea
 
 * Fall 2021: Data analysis
-  * 字节跳动大力教育
+  * Bytedance dalijiaoyu(字节跳动大力教育)
 
 * Summer 2020: Data analysis
-  * 快手科技
+  * Kuaishou Y-tech R&D team(快手科技Y-tech研发线)
   
   
 Skills
