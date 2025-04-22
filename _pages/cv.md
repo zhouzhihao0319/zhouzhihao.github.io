@@ -44,4 +44,4 @@ Publications
   
 Service and leadership
 ======
-* USC Rugby team
+* USC men's Rugby team(Winger)
