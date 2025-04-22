@@ -16,7 +16,7 @@ You can find my CV here: [Resume](assets/Toby_Zhou_Resume___ENG.pdf) [简历](as
 
 Miscellaneous
 ======
-Off the screen, you'll often find me play flag football/rugby with my friends.
+During my time in USC I played for the [USC rugby team](https://www.uscrugby.com/). Off the screen, you'll often find me play flag football or rugby with my friends.
 
 
 
