@@ -6,7 +6,7 @@ excerpt: >
        alt="Demo GIF" width="400" height="240">
 collection: portfolio
 ---
-The **Cargowise One Based Data Input Automation Tools** is a Python-based solution designed to automate the entry of shipment data into the Cargowise One logistics platform. By reducing manual data entry, this tool aims to enhance efficiency and minimize errors in logistics operations.
+The **Cargowise One Based Data Input Automation Tools** is a Python-based solution designed to automate the entry of shipment data into the Cargowise One logistics platform. By reducing manual data entry, this tool aims to enhance efficiency and minimize errors in logistics operations
 
 ### Key Features
 
