@@ -11,7 +11,7 @@ diagonal preconditioner and cgsparse. These methods demonstrated robust performa
 understanding of the algorithmic dynamics within spatial statistics but also offer valuable guidance for practitioners in choosing the most appropriate computational
 techniques for their specific needs.
 '
-date: 2025
+date: 2025-05-05
 venue: 'Arvix'
 slidesurl: 'https://github.com/zhouzhihao0319/perconcg'
 paperurl: 'https://arxiv.org/abs/2505.02000'
