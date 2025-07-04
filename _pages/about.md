@@ -10,7 +10,7 @@ My name is Zhihao Zhou(周致毫), a Data Scientist working at [DSV Air&Sea](htt
 
 During my time at USC I am very fortunate to be advised by [Prof. Lu Zhang](https://luzhangstat.github.io) of [Division of Biostatistics](https://keck.usc.edu/biostatistics/) from [Keck School of Medicine](https://keck.usc.edu), [University of Southern California(USC)](https://www.usc.edu).
 
-You can find my CV here: [Resume](assets/Toby_Zhou_Resume___ENG.pdf) [简历](assets/周致毫___中文简历.pdf)
+You can find my CV here: [Resume](assets/#Toby_Zhou_Resume___ENG.pdf) [简历](assets/#周致毫___中文简历.pdf)
 
 [Email](mailto:zhouzhih@usc.edu) / [Github](https://github.com/zhouzhihao0319)
 
