@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Data Scientist
+* Spring 2024: Key Account
   * DSV Air&Sea
 
 * Fall 2021: Data analysis
