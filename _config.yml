@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Zhou Zhihao's Pages"
 title_separator          : "-"
 name                     : &name "Zhihao Zhou"
-description              : &description "A data scientist working with DSV Air&Sea"
+description              : &description ""
 url                      : https://zhouzhihao0319.github.io/zhouzhihao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouzhihao0319/zhouzhihao.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Passion for Data Science and Supply Chain(Logistics)"
   location         : "Los Angeles"
-  employer         : "DSV Air&Sea"
+  employer         : "Alibaba"
   uri              : # URL
   email            : "zhouzhihaopersonal@gmail.com" 
 
